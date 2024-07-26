@@ -1,0 +1,6 @@
+theme = "ayu_dark"
+[editor]
+true-color = true
+popup-border = "all"
+[editor.lsp]
+display-messages = true
